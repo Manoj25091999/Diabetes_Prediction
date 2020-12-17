@@ -1,2 +1,2 @@
 # Diabetes_Prediction
-Diabetes prediction using DL
+Diabetes prediction using Logistic Regression
